@@ -180,7 +180,7 @@ Released in 2024.
 
 This project is under the [MIT license](https://github.com/Yuri-stack/ReadMe/blob/main/LICENSE).
 
-Feito Com Amor De [JaoZDev](https://github.com/Yuri-stack) 🚀.
+Feito Com Amor De [JaoZDev](https://github.com/jaozdev) 🚀.
 
 ##  Links
 
