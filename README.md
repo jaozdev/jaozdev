@@ -5,8 +5,8 @@
 </p>
 
 <h1 align="center">
-	<img src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="Logo"  width="240"><br><br>
-    Not Project
+	<img src="https://media.discordapp.net/attachments/1249074618145308788/1256827035683262626/b7d84ae216c8587c01c63a682186af8b.jpg?ex=66822ee4&is=6680dd64&hm=d1afe559764873cdc166e8c9cac3ead5cf018b5ce774c17eeb2559d90fc00be8&.svg"  alt="Logo"  width="240"><br><br>
+    JaoZDev
 </h1>
 
 <div>
@@ -54,7 +54,7 @@
  <a href="#license">License</a>
 </p>
 
-## 📌About
+## 📌 Sobre
 
 <div>
     <p align="center">
@@ -64,7 +64,7 @@
     </p>
 </div>
 
-## 🚀Features
+## 🚀 Características
 
  <p align="center">
     <em>
@@ -92,7 +92,7 @@
 - Custom Alerts, Sorting, Searching and Admin Role
 - Control of Logged Users
 - Documentation with Compodoc
-## 📕Installation
+## 📕 Oque Estou Trabalhando
 
 <p align="center">
     <em>
@@ -154,8 +154,8 @@ If you have a ***Hosted BackEnd***, you'll need configure the Routes and Models 
 ng serve
 ```
 3. Now, open your browser and navigate to: http://localhost:4200
-
-## 🌐Technologies
+4. 
+## 🌐 Tecnologias
 
 <p align="center">
     <em>
@@ -167,7 +167,7 @@ ng serve
 - [AngularJS](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 📝License
+## 📝 Licença
 
 <p align="center">
     <em>
@@ -176,11 +176,11 @@ ng serve
     </em>
 </p>
 
-Released in 2021.
+Released in 2024.
 
 This project is under the [MIT license](https://github.com/Yuri-stack/ReadMe/blob/main/LICENSE).
 
-Made with love by [Yuri Oliveira](https://github.com/Yuri-stack) 🚀.
+Feito Com Amor De [JaoZDev](https://github.com/Yuri-stack) 🚀.
 
 ##  Links
 
