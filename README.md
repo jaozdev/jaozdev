@@ -45,13 +45,13 @@
 ## Table of Contents
 
 <p align="center">
- <a href="#about">About</a> •
- <a href="#features">Features</a> •
- <a href="#revised-concepts">Revised Concepts</a> • 
- <a href="#installation">Installation</a> • 
- <a href="#getting-started">Get Started</a> • 
- <a href="#technologies">Technologies</a> • 
- <a href="#license">License</a>
+ <a href="#about">Sobre</a> •
+ <a href="#features">Características</a> •
+ <a href="#revised-concepts">Conceitos Revisados</a> • 
+ <a href="#installation">Instalação</a> • 
+ <a href="#getting-started">Iniciar</a> • 
+ <a href="#technologies">Tecnologias</a> • 
+ <a href="#license">Licença</a>
 </p>
 
 ## 📌 Sobre
@@ -59,7 +59,7 @@
 <div>
     <p align="center">
     <em>
-        It is I'm testing the readme
+        Sou Apenas Um Programador Mas Um Bruxo No Off.
     </em>
     </p>
 </div>
@@ -68,20 +68,13 @@
 
  <p align="center">
     <em>
-        (Coloque aqui as Funcionalidades do seu Projeto)<br>
-        (Place the Features of your project here)<br>
-    </em>
- </p>
+        No Projeto Que Estou Trabalhando So Funciona No Replit Se Chama "Calculator".
 
-- Creation, Editing and Deletion of Posts, Themes and User.
-- Admin Roles
-
-## 👓Revised Concepts
+## 👓 Conceitos Revisados
 
  <p align="center">
     <em>
-        (Você pode colocar alguns conceitos usados no seu Projeto que esteja revisando ou que acha importante destacar)<br>
-        (You can put some concepts used in your Project that you are reviewing or that you think is important to highlight)<br>
+        Nada Para Destacar.<br>
     </em>
  </p>
 
@@ -96,71 +89,68 @@
 
 <p align="center">
     <em>
-        (Explique como uma pessoa desenvolvedora pode estar fazendo a instalação do seu Projeto em outra máquina. Aqui cabe a você, e também as especificações do seu projeto, como explicar a forma de instalação)<br><br>
-        (Explain how another developer might be installing your Project on their machine. Here it's up to you, and also the specifications of your project, how to explain how to install it)<br>
+        Atualmente Estou Trabalhando No Termux E No Replit.<br>
     </em>
 </p>
 
-**You must have already installed**
+**Você Já Deve Ter Abaixado**
 - [Node.js](https://nodejs.org/en/)
 - [Npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 - [Angular](https://angular.io/guide/setup-local)
 - [MySQL](https://dev.mysql.com/downloads/)
 
-**Recommendations**
--   It is recommended that you have installed Google Chrome or Edge
--   I recommend using VSCode as development IDE
+**Recomendações**
+-- É recomendado que você tenha instalado o Google Chrome ou Edge
+- Recomendo usar VSCode como IDE de desenvolvimento
 
 **Let's divide it into 3 steps.**
-1. Clone this repository
-2. Install dependencies
-3. Initializing the BackEnd
+1. Clone O Repositório
+2. Instale Independências
+3. Inicie O BackEnd
   ---
-### 1. Clone this repository
+### 1. Clone Este Repositório
 ```
 git clone Link of the your Repository 
 ```
 ---
-### 2. Install the dependencies
+### 2. Instale As Dependências
 ```
 npm install
 ```
-or
+Ou
 ```
 yarn
 ```
 
-*Make sure your internet is stable, as this may take a while* 
+*Verifique se sua internet é estável* 
 
-### 3. Initializing the BackEnd
+### 3. Iniciando O BackEnd
 
-If you have a ***BackEnd local***, start it before the Angular Project
+Se você possui um ***BackEnd local***, inicie-o antes do Projeto Angular
 
-If you have a ***Hosted BackEnd***, you'll need configure the Routes and Models of Angular Project with your BackEnd 
+Se você possui um ***BackEnd Hospedado***, precisará configurar as Rotas e Modelos do Projeto Angular com seu BackEnd 
 
-## 🎮Getting Started
+## 🎮 Getting Started
 
 <p align="center">
     <em>
-        (Após a instalação, aqui você explica como outra pessoa desenvolvedora pode estar iniciando o seu Projeto. Aqui cabe a você, e também as especificações do seu projeto, como explicar a forma de inicialização)<br><br>
-        (After installation, here you explain how another developer can be starting your Project. Here it's up to you, and also the specifications of your project, how to explain how to start)<br>
+        Desenvolvimento.<br>
     </em>
 </p>
 
-1. Run the backend or configure as explained above 
+1. Execute o back-end ou configure conforme explicado acima 
 
-2. Run the project
+2. Execute O Projeto
 ```
 ng serve
 ```
-3. Now, open your browser and navigate to: http://localhost:4200
+3. Depois, Abra Seu Navegador E Navegue Por: http://
 4. 
 ## 🌐 Tecnologias
 
 <p align="center">
     <em>
-        (Liste as tecnologias usadas no seu Projeto)<br>
-        (List the technologies used in your Project)<br>
+        Uso Do Termux E Replit<br>
     </em>
 </p>
 
@@ -171,14 +161,33 @@ ng serve
 
 <p align="center">
     <em>
-        (Escreva algumas informações sobre a Licença do seu Projeto, e por quem foi feito. Recomendo colocar um link para a Licença do projeto e no seu nome coloque o link da sua rede social profisional: Linkedin, Behance, Site Pessoal, etc.)<br><br>
-        (Write some information about your Project License, and by whom it was made. I recommend putting a link to the Project License and in your name put the link to your professional social network: Linkedin, Behance, Personal Site, etc.)<br>
+        MIT License
+
+Copyright (c) 2024 JaoZDev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.<br>
     </em>
 </p>
 
 Released in 2024.
 
-This project is under the [MIT license](https://github.com/Yuri-stack/ReadMe/blob/main/LICENSE).
+This project is under the [MIT license](https://github.com/jaozdev/Licence).
 
 Feito Com Amor De [JaoZDev](https://github.com/jaozdev) 🚀.
 
